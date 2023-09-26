@@ -1,8 +1,6 @@
 # Goli Welcome On board App. - SQL database initial file.
 
-**Installation**
-
-Import and run SQL dump file on your database client. 
+SQL dump file for GoliShip application.
 
 ---
 
