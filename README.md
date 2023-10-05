@@ -1,4 +1,4 @@
-# Goli Welcome On board App. - SQL database initial file.
+# Goli Welcome On Board App. - SQL database initial file.
 
 SQL dump file for GoliShip application.
 
